@@ -1,3 +1,6 @@
 import BoilingVerdict from './BoilingVerdict';
-
-export {BoilingVerdict};
+import TemperatureInput from './TemperatureInput';
+export {
+  BoilingVerdict, 
+  TemperatureInput
+};
